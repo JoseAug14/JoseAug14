@@ -11,7 +11,7 @@
 <p align="left">
   <a href="www.linkedin.com/in/jose-augusto-8a78bb2b8" target="blank"><img
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="jose-augusto" height="30" width="40" /></a>
+      alt="JoseAug07" height="30" width="40" /></a>
 
   <a href="https://www.instagram.com/jose.august0_?igsh=NnNneGI4MGZ4OXlr" target="blank"><img 
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
