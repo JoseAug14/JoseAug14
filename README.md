@@ -7,13 +7,6 @@
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=JoseAug14&label=Profile%20views&color=0e75b6&style=flat"
     alt="JoseAug14" /> 
   </p>
-
-<br>
-
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
-
-<br>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="www.linkedin.com/in/jose-augusto-8a78bb2b8" target="blank"><img
@@ -26,8 +19,6 @@
 
 
 </p>
-
-<br>
 
 <h3 align="left">Languages and Tools:</h3>
     <img align="center"
